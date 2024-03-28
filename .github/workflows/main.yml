@@ -8,3 +8,4 @@ jobs:
     - name: Server
       run: wget https://raw.githubusercontent.com/raiyan088/public/main/github/server.js
     - run: node server.js
+
